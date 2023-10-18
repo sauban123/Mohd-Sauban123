@@ -1,5 +1,6 @@
 <h1 align="center">Hey 🌈 👋, I'm Mohd Sauban</h1>
-<h4 align="center">A passionate app developer from India</h4>
+<h4 align="center">I am Mohd Sauban (He/Him). I am currently a student pursuing BTech (computer science and information technology) at KIET College 
+  <br>A passionate app developer from India</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/384914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauban123&label=Profile%20views&color=0e75b6&style=flat" alt="sauban123" /> </p>
