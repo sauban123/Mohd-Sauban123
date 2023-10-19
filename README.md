@@ -1,9 +1,7 @@
 Hey 🌈 👋, I'm Mohd Sauban(He/Him).<br>
 I am currently a student pursuing BTech (computer science)
 A passionate app developer
-<! <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/384914/programmer.gif"> -->
 [![@sauban123's Holopin board](https://holopin.me/sauban123)](https://holopin.io/@sauban123)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauban123&label=Profile%20views&color=0e75b6&style=flat" alt="sauban123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sauban ansari" target="blank"><img src="https://img.shields.io/twitter/follow/sauban ansari?logo=twitter&style=for-the-badge" alt="sauban ansari" /></a> </p>
@@ -14,8 +12,8 @@ A passionate app developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sauban ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauban ansari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd sauban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd sauban" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/sauban ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauban ansari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd sauban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd sauban" height="30" width="40" /></a> -->
 <a href="https://instagram.com/sauban_samy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauban_samy" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/mohd_sauban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohd_sauban" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/q_2022_23_36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="q_2022_23_36" height="30" width="40" /></a> -->
