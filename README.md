@@ -1,5 +1,5 @@
 Hey 🌈 👋, I'm Mohd Sauban(He/Him).<br>
-I am currently a student pursuing BTech (computer science )
+I am currently a student pursuing BTech (computer science)
 A passionate app developer
 <! <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/384914/programmer.gif"> -->
 [![@sauban123's Holopin board](https://holopin.me/sauban123)](https://holopin.io/@sauban123)
