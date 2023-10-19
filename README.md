@@ -1,7 +1,7 @@
-Hey 🌈 👋, I'm Mohd Sauban
-I am Mohd Sauban (He/Him). I am currently a student pursuing BTech (computer science )
+Hey 🌈 👋, I'm Mohd Sauban(He/Him).<br>
+I am currently a student pursuing BTech (computer science )
 A passionate app developer
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/384914/programmer.gif"> -->
+<! <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/384914/programmer.gif"> -->
 [![@sauban123's Holopin board](https://holopin.me/sauban123)](https://holopin.io/@sauban123)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauban123&label=Profile%20views&color=0e75b6&style=flat" alt="sauban123" /> </p>
@@ -28,6 +28,5 @@ A passionate app developer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauban123&show_icons=true&locale=en&layout=compact" alt="sauban123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauban123&show_icons=true&locale=en" alt="sauban123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauban123&" alt="sauban123" /></p>
