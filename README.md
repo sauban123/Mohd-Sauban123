@@ -27,4 +27,3 @@ A passionate app developer
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauban123&show_icons=true&locale=en&layout=compact" alt="sauban123" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauban123&" alt="sauban123" /></p>
