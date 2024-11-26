@@ -1,6 +1,6 @@
-Hey 🌈 👋, I'm Mohd Sauban(He/Him).<br>
+Hey 👋, I'm Mohd Sauban(He/Him).<br>
 I am currently a student pursuing BTech (computer science)
-A passionate app developer
+A passionate  Native Android Developer
 [![@sauban123's Holopin board](https://holopin.me/sauban123)](https://holopin.io/@sauban123)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauban123&label=Profile%20views&color=0e75b6&style=flat" alt="sauban123" /> </p>
 
